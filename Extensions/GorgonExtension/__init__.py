@@ -9,7 +9,7 @@ import re
 
 import chimera
 
-def mainchain():
+def mainGorgon():
     MAINCHAIN = re.compile("^(N|CA|C)$", re.I)
     for m in chimera.openModels.list(modelTypes=[chimera.Molecule]):
         for a in m.atoms:
