@@ -1,6 +1,6 @@
 # Chimera-Playground
 
-Repository to test add Gorgon as a plug-in to Chimera.
+Repository to test adding Gorgon as a plug-in to Chimera.
 
 Example files are downloaded from
 
