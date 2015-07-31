@@ -11,7 +11,7 @@ import chimera
 #    (Put 4fun.pdb on your desktop or change the path in the command below.)
 #
 #    .. "4fun.pdb" 4fun.pdb
-opened = chimera.openModels.open('~/Desktop/4fun.pdb')
+opened = chimera.openModels.open('4fun.pdb')
 
 #    Because only one molecule was opened, 'opened' is a list with just one element.
 #    Get a reference to that element (which is a 'Molecule'
